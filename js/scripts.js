@@ -285,7 +285,6 @@ const smaLocations = [
   { name: 'SMA Labschool Rawamangun', type: 'Negeri', latlng: [-6.196751, 106.885992] },
   { name: 'SMA Taruna Nusantara', type: 'Swasta', latlng: [-6.396222, 107.437500] },
   { name: 'SMA Al-Azhar', type: 'Swasta', latlng: [-6.217078, 106.837345] },
-  // Anda bisa menambahkan SMA lainnya di sini
 ];
 
 
